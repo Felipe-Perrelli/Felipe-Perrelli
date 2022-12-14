@@ -1,6 +1,5 @@
 ## Olá, meu nome é Felipe Perrelli
 
-
 - 📩 contate-me no e-mail: felipeperrelliproficional@gmail.com
 - 😄 Pronomes: Ele/Dele
 
