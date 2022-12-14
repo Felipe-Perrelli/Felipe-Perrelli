@@ -1,8 +1,6 @@
 ## Olá, meu nome é Felipe Perrelli
 
 
-- 🔭 hoje trabalho com banco-de-dados
-- 🌱 Estudando SQL
 - 📩 contate-me no e-mail: felipeperrelliproficional@gmail.com
 - 😄 Pronomes: Ele/Dele
 
