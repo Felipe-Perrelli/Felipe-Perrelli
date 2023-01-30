@@ -3,6 +3,7 @@
 - 🌱 atualmente estudando: Java/Typescript
 - 📩 contate-me no e-mail: felipeperrelliproficional@gmail.com
 - 😄 Pronomes: Ele/Dele
+<br>
 
 
 <div align="center">
@@ -11,7 +12,7 @@
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Perrelli&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
    
-<div>
+<div id="redes-sociais">
   <hr>
   <a href="https://www.linkedin.com/in/felipe-joanes-40b72b24a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
    <a href = "mailto:felipeperrelliproficional@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
