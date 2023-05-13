@@ -1,6 +1,6 @@
 ## Olá, meu nome é Felipe Perrelli
 
-- 🌱 atualmente estudando: Java/Typescript
+- 🌱 atualmente estudando: Java/sql
 - 📩 contate-me no e-mail: felipeperrelliproficional@gmail.com
 - 😄 Pronomes: Ele/Dele
 <br>
