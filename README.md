@@ -17,19 +17,22 @@
   <a href="https://www.instagram.com/felipe_perrelli/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-   badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-<div style="display: inline; width: 100%;">
-    <img align="center" alt="Lipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
-    
-    <img align="center" alt="Lipe-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    
-    <img align="center" alt="Lipe-css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    
-    <img align="center" alt="Lipe-html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />   
-    
-    <img align="center" alt="Lipe-jscript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    
-    <img  align="center" alt="Lipe-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-</div>
+<div style="display: inline width: 100%">
+<br/>
 
+<img align="center" alt="Lipe-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+
+<img align="center" alt="Lipe-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+
+<img align="center" alt="Lipe-css3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+
+<img align="center" alt="Lipe-html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />   
+
+<img align="center" alt="Lipe-jscript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+
+<img  align="center" alt="Lipe-React" height="30" width="40"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
+</div>
             
   
