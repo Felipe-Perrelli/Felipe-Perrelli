@@ -1,6 +1,6 @@
 ## Olá, meu nome é Felipe Perrelli
 
-- 🌱 atualmente estudando: Java/sql
+- 🌱 atualmente estudando: react.js, next.js.
 - 📩 contate-me no e-mail: felipeperrelliproficional@gmail.com
 - 😄 Pronomes: Ele/Dele
 <br>
