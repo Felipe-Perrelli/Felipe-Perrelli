@@ -30,8 +30,7 @@
 
 <img align="center" alt="Lipe-jscript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 
-<img  align="center" alt="Lipe-React" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img  align="center" alt="Lipe-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
 </p>
             
