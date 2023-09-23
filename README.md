@@ -6,11 +6,9 @@
 <br>
 
 
-<div align="center">
-  <a href="https://github.com/Felipe-Perrelli">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe-Perrelli&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-Perrelli&show_icons=true&theme=dark)
+
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Perrelli&layout=compact&theme=dark)](https://github.com/Felipe-Perrelli)
-</div>
    
 <div id="redes-sociais">
   <hr>
