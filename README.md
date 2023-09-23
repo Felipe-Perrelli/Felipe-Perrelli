@@ -6,9 +6,9 @@
 <br>
 
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-Perrelli&show_icons=true&theme=dark)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Felipe-Perrelli&show_icons=true&theme=tokyonight)
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Perrelli&layout=compact&theme=dark)](https://github.com/Felipe-Perrelli)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Perrelli&layout=compact&theme=tokyonight)](https://github.com/Felipe-Perrelli)
    
 <div id="redes-sociais">
   <hr>
