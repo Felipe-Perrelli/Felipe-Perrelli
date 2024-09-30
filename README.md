@@ -1,7 +1,7 @@
 ## Olá, meu nome é Felipe Perrelli
 
 - 🌱 atualmente estudando: react.js, next.js.
-- 📩 contate-me no e-mail: felipeperrelliproficional@gmail.com
+- 📩 contate-me no e-mail: felipeperrellidev@gmail.com
 - 😄 Pronomes: Ele/Dele
 <br>
 
